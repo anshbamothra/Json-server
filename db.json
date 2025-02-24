@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "author": "Jane Doe"
+    },
+    {
+      "id": 2,
+      "title": "Learning JSON Server",
+      "author": "John Smith"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Great post!",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "Thanks for sharing!",
+      "postId": 2
+    }
+  ],
+  "users": [
+    {
+      "id": "1d89",
+      "name": "sainath",
+      "email": "sainath",
+      "password": "sainath"
+    }
+  ]
+}
