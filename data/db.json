@@ -1,0 +1,65 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Hello World",
+      "author": "Jane Doe"
+    },
+    {
+      "id": "2",
+      "title": "Learning JSON Server",
+      "author": "John Smith"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "Great post!",
+      "postId": 1
+    },
+    {
+      "id": "2",
+      "body": "Thanks for sharing!",
+      "postId": 2
+    }
+  ],
+  "users": [
+    {
+      "id": "1d89",
+      "name": "sainath",
+      "email": "sainath",
+      "password": "sainath"
+    },
+    {
+      "id": "b6a9",
+      "name": "Ansh Bamothra",
+      "email": "a@gmail.com",
+      "password": "123",
+      "skills": [
+        "Web Development",
+        "Data Science",
+        "Machine Learning",
+        "3D Modeling & Animation"
+      ]
+    },
+    {
+      "id": "9708",
+      "name": "dora",
+      "email": "dora@gmaa",
+      "password": "hsdcv",
+      "skills": [
+        "Data Science"
+      ]
+    },
+    {
+      "id": "53ef",
+      "name": "koushik",
+      "email": "k@gmail.com",
+      "password": "123",
+      "skills": [
+        "Data Science",
+        "Mobile App Development"
+      ]
+    }
+  ]
+}
